@@ -9,14 +9,14 @@
          "splash_ads":"false"
       },
       {
-         "app_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-         "banner_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-         "interstitial_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-          "interstitial_id1":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-          "interstitial_id2":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-         "native_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-         "native_banner_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-         "rectangle_banner_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+         "app_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_I1",
+         "banner_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_1D",
+         "interstitial_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_1D",
+          "interstitial_id1":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_1D",
+          "interstitial_id2":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT1ID",
+         "native_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_I1",
+         "native_banner_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEM1NT_ID",
+         "rectangle_banner_id":"IMG_16_9_APP_INSTALL#YOUR_PLA1EMENT_ID",
          "status":"true",
          "splash_ads":"false"
       }
